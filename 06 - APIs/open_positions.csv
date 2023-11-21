@@ -1,0 +1,11 @@
+title,full_time,part_time,requirements,distance
+Baker,True,True,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']",0.2
+Restaurant Manager,True,False,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule', 'Previous management experience preferred']",0.2
+Team Member,True,False,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']",0.2
+Supervisor,True,False,[],0.2
+Restaurant Manager,True,False,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule', 'Previous management experience preferred']",0.3
+Supervisor,True,False,[],0.3
+Team Member,True,False,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']",0.3
+Baker,True,True,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']",0.3
+Restaurant Manager,True,False,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule', 'Previous management experience preferred']",0.4
+Baker,True,True,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']",0.4
