@@ -1,0 +1,192 @@
+country_name,gdp,region,year
+United States,26949643.0,Americas,2023
+China,17700899.0,Asia,2023
+Germany,4429838.0,Europe,2023
+Japan,4230862.0,Asia,2023
+India,3732224.0,Asia,2023
+United Kingdom,3332059.0,Europe,2023
+France,3049016.0,Europe,2023
+Italy,2186082.0,Europe,2023
+Brazil,2126809.0,Americas,2023
+Canada,2117805.0,Americas,2023
+Russia,1862470.0,Europe,2023
+Mexico,1811468.0,Americas,2023
+South Korea,1709232.0,Asia,2023
+Australia,1687713.0,Oceania,2023
+Spain,1582054.0,Europe,2023
+Indonesia,1417387.0,Asia,2023
+Turkey,1154600.0,Asia,2023
+Netherlands,1092748.0,Europe,2023
+Saudi Arabia,1069437.0,Asia,2023
+Switzerland,905684.0,Europe,2023
+Poland,842172.0,Europe,2023
+Taiwan,751930.0,Asia,2023
+Belgium,627511.0,Europe,2023
+Argentina,621833.0,Americas,2023
+Sweden,597110.0,Europe,2023
+Ireland,589569.0,Europe,2023
+Norway,546768.0,Europe,2023
+Austria,526182.0,Europe,2023
+Israel,521688.0,Asia,2023
+Thailand,512193.0,Asia,2023
+United Arab Emirates,509179.0,Asia,2023
+Singapore,497347.0,Asia,2023
+Bangladesh,446349.0,Asia,2023
+Philippines,435675.0,Asia,2023
+Vietnam,433356.0,Asia,2023
+Malaysia,430895.0,Asia,2023
+Denmark,420800.0,Europe,2023
+Egypt,398397.0,Africa,2023
+Nigeria,390002.0,Africa,2023
+Hong Kong,385546.0,Asia,2023
+South Africa,380906.0,Africa,2023
+Iran,366438.0,Asia,2023
+Colombia,363835.0,Americas,2023
+Romania,350414.0,Europe,2023
+Chile,344400.0,Americas,2023
+Pakistan,340636.0,Asia,2023
+Czech Republic,335243.0,Europe,2023
+Finland,305689.0,Europe,2023
+Iraq,297695.0,Asia,2023
+Portugal,276432.0,Europe,2023
+Peru,264636.0,Americas,2023
+Kazakhstan,259292.0,Asia,2023
+New Zealand,249415.0,Oceania,2023
+Greece,242385.0,Europe,2023
+Qatar,235500.0,Asia,2023
+Algeria,224107.0,Africa,2023
+Hungary,203829.0,Europe,2023
+Ukraine,173413.0,Europe,2023
+Kuwait,159687.0,Asia,2023
+Ethiopia,155804.0,Africa,2023
+Morocco,147343.0,Africa,2023
+Slovakia,133044.0,Europe,2023
+Dominican Republic,120629.0,Americas,2023
+Ecuador,118686.0,Americas,2023
+Puerto Rico,117515.0,Americas,2023
+Kenya,112749.0,Africa,2023
+Oman,108282.0,Asia,2023
+Bulgaria,103099.0,Europe,2023
+Guatemala,102765.0,Americas,2023
+Angola,93796.0,Africa,2023
+Venezuela,92210.0,Americas,2023
+Uzbekistan,90392.0,Asia,2023
+Luxembourg,89095.0,Europe,2023
+Costa Rica,85590.0,Americas,2023
+Tanzania,84033.0,Africa,2023
+Panama,82348.0,Americas,2023
+Turkmenistan,81822.0,Asia,2023
+Croatia,80185.0,Europe,2023
+Ivory Coast,79430.0,Africa,2023
+Lithuania,79427.0,Europe,2023
+Azerbaijan,77392.0,Asia,2023
+Ghana,76628.0,Africa,2023
+Uruguay,76244.0,Americas,2023
+Serbia,75015.0,Europe,2023
+Myanmar,74861.0,Asia,2023
+Belarus,68864.0,Europe,2023
+Slovenia,68394.0,Europe,2023
+DR Congo,67512.0,Africa,2023
+Uganda,52390.0,Africa,2023
+Tunisia,51271.0,Africa,2023
+Jordan,50022.0,Asia,2023
+Cameroon,49262.0,Africa,2023
+Bolivia,46796.0,Americas,2023
+Latvia,46668.0,Europe,2023
+Bahrain,44994.0,Asia,2023
+Paraguay,44142.0,Americas,2023
+Estonia,41799.0,Europe,2023
+Nepal,41339.0,Asia,2023
+Libya,40194.0,Africa,2023
+Macau,38480.0,Asia,2023
+El Salvador,35339.0,Americas,2023
+Honduras,33992.0,Americas,2023
+Zimbabwe,32424.0,Africa,2023
+Cyprus,32032.0,Asia,2023
+Papua New Guinea,31692.0,Oceania,2023
+Senegal,31141.0,Africa,2023
+Cambodia,30943.0,Asia,2023
+Iceland,30570.0,Europe,2023
+Georgia,30023.0,Asia,2023
+Zambia,29536.0,Africa,2023
+Trinidad and Tobago,27887.0,Americas,2023
+Bosnia and Herzegovina,26945.0,Europe,2023
+Haiti,25986.0,Americas,2023
+Sudan,25569.0,Africa,2023
+Armenia,24540.0,Asia,2023
+Guinea,23205.0,Africa,2023
+Albania,23032.0,Europe,2023
+Mozambique,21936.0,Africa,2023
+Mali,21309.0,Africa,2023
+Yemen,21045.0,Asia,2023
+Burkina Faso,20785.0,Africa,2023
+Botswana,20756.0,Africa,2023
+Malta,20311.0,Europe,2023
+Benin,19940.0,Africa,2023
+Gabon,19319.0,Africa,2023
+Palestine,18109.0,Asia,2021
+Mongolia,18782.0,Asia,2023
+Jamaica,18761.0,Americas,2023
+Nicaragua,17353.0,Americas,2023
+Niger,17073.0,Africa,2023
+Guyana,16329.0,Americas,2023
+Moldova,16000.0,Europe,2023
+North Macedonia,15801.0,Europe,2023
+Madagascar,15763.0,Africa,2023
+Brunei,15153.0,Asia,2023
+Mauritius,14819.0,Africa,2023
+Congo,14407.0,Africa,2023
+Laos,14244.0,Asia,2023
+Rwanda,13927.0,Africa,2023
+Bahamas,13876.0,Americas,2023
+Malawi,13176.0,Africa,2023
+Kyrgyzstan,12681.0,Asia,2023
+Namibia,12647.0,Africa,2023
+Chad,12596.0,Africa,2023
+Tajikistan,11816.0,Asia,2023
+Somalia,11515.0,Africa,2023
+Kosovo,10469.0,Europe,2023
+Mauritania,10357.0,Africa,2023
+Equatorial Guinea,10041.0,Africa,2023
+Togo,9111.0,Africa,2023
+Montenegro,7058.0,Europe,2023
+Maldives,6977.0,Asia,2023
+South Sudan,6267.0,Africa,2023
+Barbados,6220.0,Americas,2023
+Fiji,5511.0,Oceania,2023
+Eswatini,4648.0,Africa,2023
+Liberia,4347.0,Africa,2023
+Djibouti,3873.0,Africa,2023
+Aruba,3827.0,Americas,2023
+Andorra,3692.0,Europe,2023
+Suriname,3539.0,Americas,2023
+Sierra Leone,3519.0,Africa,2023
+Belize,3218.0,Americas,2023
+Burundi,3190.0,Africa,2023
+Central African Republic,2760.0,Africa,2023
+Bhutan,2686.0,Asia,2023
+Cape Verde,2598.0,Africa,2023
+Saint Lucia,2469.0,Americas,2023
+Gambia,2388.0,Africa,2023
+Lesotho,2373.0,Africa,2023
+Seychelles,2085.0,Africa,2023
+East Timor,2023.0,Asia,2023
+San Marino,1998.0,Europe,2023
+Guinea-Bissau,1991.0,Africa,2023
+Antigua and Barbuda,1949.0,Americas,2023
+Solomon Islands,1690.0,Oceania,2023
+Comoros,1364.0,Africa,2023
+Grenada,1306.0,Americas,2023
+Vanuatu,1166.0,Oceania,2023
+Saint Kitts and Nevis,1069.0,Americas,2023
+Saint Vincent and the Grenadines,1039.0,Americas,2023
+Samoa,939.0,Oceania,2023
+Dominica,697.0,Americas,2023
+São Tomé and Príncipe,674.0,Africa,2023
+Tonga,547.0,Oceania,2023
+Micronesia,458.0,Oceania,2023
+Marshall Islands,277.0,Oceania,2023
+Palau,267.0,Oceania,2023
+Kiribati,246.0,Oceania,2023
+Nauru,150.0,Oceania,2023
+Tuvalu,63.0,Oceania,2023
