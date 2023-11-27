@@ -1,6 +1,7 @@
 /django/storefront/__pycache__
 /django/playground/__pycache__
 /04 - Web Scraping/02 - Parsing and extraction/books.csv
+/11 - Scrapy/venv/lib/python3.11/site-packages/incremental/update.py
 
 __pycache__/
 *.py[cod]
